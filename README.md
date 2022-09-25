@@ -13,9 +13,9 @@
   Podendo citar como principais usos: armazenamentos de documentos, chave-valor, grafos e/ou colunas. (Ex: MongoDB para Documentos, Redis para Chave-Valor, Cassandra para Colunas e Neo4j para Grafos)
 ### Considerações sobre engenharia de dados
 #### Para que um engenheiro de dados possa de forma eficiente arquitetar de forma eficiente toda a estrutura que será posteriormente utilizada por um cientista de dados e deles retirar “insights” que ajudem a direcionar futuras decisões de mercado. São necessários alguns passos, dentre eles:
- - Obter conhecimento dos dados da empresa e suas origens afim de realizar a ingestão de dados em “datawarehouses” e “datalakes”;
- – Saber das necessidades, prioridades, e tipos de estratégias que a empresa visa por em prática;
- – Construir um bom ETL/ELT , assim deixando apenas dados úteis no pipeline (sanitizar os dados);
- – Definir quais tipos de dados serão utilizados pelos usuários, e naquele cenário específico quais tipos de ferramentas serão mais produtivas (Power BI,Tableau, Python com Pandas, Numpy, entre oputros).
+ -  Obter conhecimento dos dados da empresa e suas origens afim de realizar a ingestão de dados em “datawarehouses” e “datalakes”;
+ - Saber das necessidades, prioridades, e tipos de estratégias que a empresa visa por em prática;
+ - Construir um bom ETL/ELT , assim deixando apenas dados úteis no pipeline (sanitizar os dados);
+ - Definir quais tipos de dados serão utilizados pelos usuários, e naquele cenário específico quais tipos de ferramentas serão mais produtivas (Power BI,Tableau, Python com Pandas, Numpy, entre oputros).
   Num mundo onde Terabytes de conteúdo são gerados em minutos, analisar e se basear em dados para tomar decisões de mercado, é além de uma riqueza, sobretudo uma necessidade.
   Seja o conteúdo utilizado proveniente de um DB SQL ou NoSQL, o mais importante não é a fonte, nem tipos de dados, e sim o tratamento correto, desde a limpeza dos dados, até a realização das análises que podem gerar riquezas incalculáveis a seus detentores e ajudar uma instituição a se manter com bons números no mercado.
